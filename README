@@ -1,0 +1,10 @@
+Esse programa foi criado para auxiliar estudantes a verificar respostas de  problemas de sistemas lineares de forma rápida. A matriz escalonada pode ser diferente, dependendo da sequencia de operações usada.
+
+Para rodar este programa você precisa do java instalado.
+Coloque o arquivo gauss2.jar em um diretório de sua escolha.
+Use o comando java -jar gauss2.jar para iniciar, e divirta-se.
+
+Atenção: Sómente use sistemas que possuem número de equações igual ao número de incógnitas, senão pode dar erro.
+
+Roberto (beto.java@hotmail.com)
+Disponivel em http://github.com/BetoKahn/Gauss
