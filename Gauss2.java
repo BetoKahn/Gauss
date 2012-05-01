@@ -141,8 +141,8 @@ public class Gauss2  extends JFrame{
 						" no formato a seguir:\nNa 1a linha o número de equações do sistema e nas outras o sistema.\n" +
 						"Ex. O sistema:\n1x+2y=3\n3x+2y=1\nVocê digita:\n2\n1 2 3\n3 2 1\nEspero que você goste.\n" +
 						"Dúvidas, comentários, sugestões: beto.java@hotmail.com\n" +
-						"Código disponivel em: https://github.com/BetoKahn/Gauss" +
-						"Copyright,2012 Roberto Kahn\nVocê pode copiar a vontade.";
+						"Código disponivel em: https://github.com/BetoKahn/Gauss\n" +
+						"Copyright 2012 Roberto Kahn\nVocê pode copiar a vontade.";
 				JOptionPane.showMessageDialog(getParent(), msg, "Como usar", JOptionPane.PLAIN_MESSAGE);
 			}
 			if (e.getSource()==menuAbout) {
