@@ -1,0 +1,10 @@
+This program is designed to assist students to check answers to problems of linear systems quickly. The scaled array can be different depending on the sequence of operations used.
+
+To run this program you need java installed.
+Place the file gauss2.jar in a directory of your choice.
+Use the command java-jar gauss2.jar to start, and have fun.
+
+Attention: Only use systems that have number of equations equals the number of unknowns, otherswise it will give error.
+
+Roberto (beto.java @ hotmail.com)
+Available at http://github.com/BetoKahn/Gauss
